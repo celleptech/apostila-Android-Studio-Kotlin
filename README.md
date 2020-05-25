@@ -1,4 +1,4 @@
-# Curso Desenvolvimento de Aplicativos Android Studio & Kotlin
+# Curso Desenvolvimento de Aplicativos Android Studio & Kotlin 32h
 
 ## Objetivo:
 Prover os primeiros passos na programação e na criação de aplicativos para dispositivos móveis Android.
@@ -16,7 +16,5 @@ Prover os primeiros passos na programação e na criação de aplicativos para d
 * Persistência de dados com SharedPreferences
 * Emulação & Depuração
 
-## Conteúdo
-1. [Introdução ao mundo do Android](https://github.com/celleptech/apostila-Android/wiki/Introdu%C3%A7%C3%A3o-ao-mundo-do-Android)
-1. [Fundamentos da programação em Kotlin](https://github.com/celleptech/apostila-Android/wiki/Fundamentos-da-programa%C3%A7%C3%A3o-em-Kotlin)
-1. [Introdução ao Android Studio](https://github.com/celleptech/apostila-Android/wiki/Introdu%C3%A7%C3%A3o-ao-Android-Studio)
+## Apostila
+[Desenvolvimento de Aplicativos Android Studio & Kotlin 32h](https://github.com/celleptech/apostila-Android/wiki)
