@@ -1,4 +1,4 @@
-# Curso Desenvolvimento de Aplicativos Android Studio & Kotlin 32h
+# Desenvolvimento de Aplicativos Android Studio & Kotlin 32h
 
 ## Objetivo:
 Prover os primeiros passos na programação e na criação de aplicativos para dispositivos móveis Android.
